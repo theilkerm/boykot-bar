@@ -2038,5 +2038,13 @@
         "boycott_reason": "",
         "priority": "YÜKSEK",
         "alternative": ""
+    },
+    {
+        "name": "trendyol",
+        "url": "trendyol.com",
+        "sector": "e-Ticaret",
+        "boycott_reason": "",
+        "priority": "YÜKSEK",
+        "alternative": ""
     }
 ]
