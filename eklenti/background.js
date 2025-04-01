@@ -1,6 +1,20 @@
-importScripts("blacklist.js");
-chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+const BLACKLIST_URL = "https://raw.githubusercontent.com/theilkerm/boykot-bar/refs/heads/main/eklenti/blacklist.js";
+let blacklist = [];
+
+async function fetchBlacklist() {
+  try {
+    let response = await fetch(BLACKLIST_URL);
+    let text = await response.text();
+    blacklist = eval(text); // Güvenlik açısından daha iyisi JSON formatında tutmaktır
+    console.log("Blacklist güncellendi.", blacklist);
+  } catch (error) {
+    console.error("Blacklist yüklenemedi:", error);
+  }
+}
+
+chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
   if (changeInfo.status === "complete") {
+    if (blacklist.length === 0) await fetchBlacklist();
     const url = new URL(tab.url);
     let blockedSite = blacklist.find(entry => entry.url && url.hostname.includes(entry.url));
     if (blockedSite) {
@@ -8,7 +22,10 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
         target: { tabId: tabId },
         function: showWarning,
         args: [
-          `BOYKOT SİTESİ: ${blockedSite.name} | Sektör: ${blockedSite.sector} | Sebep: ${blockedSite.boycott_reason} | Alternatif: ${blockedSite.alternative}`
+          `BOYKOT SİTESİ: ${blockedSite.name}` +
+          (blockedSite.sector ? ` | Sektör: ${blockedSite.sector}` : "") +
+          (blockedSite.boycott_reason ? ` | Sebep: ${blockedSite.boycott_reason}` : "") +
+          (blockedSite.alternative ? ` | Alternatif: ${blockedSite.alternative}` : "")
         ]
       });
     }
@@ -28,6 +45,5 @@ function showWarning(message) {
   bar.style.zIndex = "9999";
   bar.innerText = message;
   document.body.prepend(bar);
-
   document.body.style.marginTop = "50px"; // İçeriği aşağı kaydır
 }

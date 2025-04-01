@@ -2038,5 +2038,13 @@ const blacklist = [
       boycott_reason: "",
       priority: "YÜKSEK",
       alternative: ""
-    }
+    },
+    {
+        name: "trendyol",
+        url: "trendyol.com",
+        sector: "Perakende",
+        boycott_reason: "",
+        priority: "YÜKSEK",
+        alternative: ""
+      }
   ];
