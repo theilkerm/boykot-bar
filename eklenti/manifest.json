@@ -1,17 +1,44 @@
 {
-  "manifest_version": 3,
-  "name": "Boykot Eklentisi",
-  "version": "1.0",
-  "permissions": ["activeTab", "scripting"],
-  "host_permissions": ["<all_urls>", "https://raw.githubusercontent.com/*"],
-  "background": {
-    "service_worker": "background.js"
-  },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"],
-      "run_at": "document_end"
-    }
-  ]
-}
+    "manifest_version": 3,
+    "name": "Boykot Eklentisi",
+    "version": "1.1",
+    "description": "Boykot sitelerini ve içeriklerini uyarır", 
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "alarms" 
+    ],
+    "host_permissions": [
+      "<all_urls>",
+      "https://raw.githubusercontent.com/theilkerm/boykot-bar/*" 
+    ],
+    "background": {
+      "service_worker": "background.js",
+      "type": "module" 
+    },
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"], 
+        "exclude_matches": [
+          "*://*.google.com/*", 
+          "*://*.facebook.com/*"
+        ],
+        "js": ["content.js"],
+        "run_at": "document_idle", 
+        "all_frames": false 
+      }
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "action": { 
+      "default_icon": "icon128.png",
+      "default_title": "Boykot Kontrol Aktif"
+    },
+    "web_accessible_resources": [{
+      "resources": ["icon128.png"],
+      "matches": ["<all_urls>"]
+    }]
+  }

@@ -3,6 +3,9 @@ boykot konusunda kullanıcılara yardımcı olmayı amaçlayan bir tarayıcı ek
 
 eklenti ve boykot listesine dair herhangi bir sorumluluk kabul etmiyorum. tamamen internette görülen kaynaklardan alınmıştır.
 
+v1.1 değişiklikleri:
+- artık güncellenen boykot listesi için eklentiyi tekrar kurmanıza gerek kalmaz.
+
 
 eklentiyi kullanmak için:
 1. bu sayfada yer alan yeşil "code" butonuna tıklayınız, açılan popup'taki "download zip" yazısına tıklayarak zip dosyasını indiriniz.
