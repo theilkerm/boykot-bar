@@ -1,11 +1,10 @@
-const BLACKLIST_URL = "https://raw.githubusercontent.com/theilkerm/boykot-bar/refs/heads/main/eklenti/blacklist.js";
+const BLACKLIST_URL = "https://raw.githubusercontent.com/theilkerm/boykot-bar/main/eklenti/blacklist.json";
 let blacklist = [];
 
 async function fetchBlacklist() {
   try {
     let response = await fetch(BLACKLIST_URL);
-    let text = await response.text();
-    blacklist = eval(text); // Güvenlik açısından daha iyisi JSON formatında tutmaktır
+    blacklist = await response.json(); // Artık JSON olarak çekiyoruz
     console.log("Blacklist güncellendi.", blacklist);
   } catch (error) {
     console.error("Blacklist yüklenemedi:", error);
