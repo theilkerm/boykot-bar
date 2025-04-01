@@ -1,5 +1,5 @@
 # boykot-bar
-boykot konusunda kullanıcılara yardımcı olmayı amaçlayan bir tarayıcı eklentisi.
+boykot konusunda kullanıcılara yardımcı olmayı amaçlayan bir tarayıcı eklentisi. İlgili web sayfası boykot sayfalarından biri ise ya da sayfada boykotlu kurumların isimleri geçiyorsa üstte kırmızı bir bar ile sizi uyarmayı hedefliyor. 
 
 eklenti ve boykot listesine dair herhangi bir sorumluluk kabul etmiyorum. tamamen internette görülen kaynaklardan alınmıştır.
 
