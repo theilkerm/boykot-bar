@@ -1,0 +1,40 @@
+{
+    "manifest_version": 2,
+    "name": "Boykot Eklentisi",
+    "version": "1.1",
+    "description": "Boykot sitelerini ve içeriklerini uyarır",
+    "permissions": [
+      "activeTab",
+      "alarms",
+      "webRequest",
+      "webNavigation",
+      "http://*/*",
+      "https://*/*",
+      "https://raw.githubusercontent.com/theilkerm/boykot-bar/*"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"],
+        "exclude_matches": [
+          "*://*.google.com/*",
+          "*://*.facebook.com/*"
+        ],
+        "js": ["content.js"],
+        "run_at": "document_idle",
+        "all_frames": false
+      }
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "browser_action": {
+      "default_icon": "icon128.png",
+      "default_title": "Boykot Kontrol Aktif"
+    },
+    "web_accessible_resources": ["icon128.png"]
+  }
