@@ -13,7 +13,10 @@
 - artık güncellenen boykot listesi için eklentiyi tekrar kurmanıza gerek kalmaz.
 
 
-## eklentiyi kullanmak için (google chrome):
+## eklentiyi kullanmak için 
+
+### google chrome:
+
 1. bu sayfada yer alan yeşil "code" butonuna tıklayınız, açılan popup'taki "download zip" yazısına tıklayarak zip dosyasını indiriniz.
 2. zip'i bilgisayarınızda açınız.
 3. google chrome'da "chrome://extensions/" adresine gidiniz.
