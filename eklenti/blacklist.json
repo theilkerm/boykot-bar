@@ -121,7 +121,7 @@
     },
     {
         "name": "Altus",
-        "url": "altus.com.tr/",
+        "url": "altus.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -129,7 +129,7 @@
     },
     {
         "name": "Ankara Super Coffee",
-        "url": "instagram.com/super.coffeetr/",
+        "url": "instagram.com",
         "sector": "",
         "boycott_reason": "Eylemcilere satış yapmadı içeri almadı. Instagram",
         "priority": "",
@@ -137,7 +137,7 @@
     },
     {
         "name": "Anpa Gross",
-        "url": "anpagross.com/",
+        "url": "anpagross.com",
         "sector": "Perakende",
         "boycott_reason": "Hükümet yanlısı. Kanıt",
         "priority": "",
@@ -153,7 +153,7 @@
     },
     {
         "name": "Arkitekt",
-        "url": "mo.org.tr/arkitekt/",
+        "url": "mo.org.tr",
         "sector": "Medya",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -161,7 +161,7 @@
     },
     {
         "name": "Armani",
-        "url": "armani.com/",
+        "url": "armani.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Atasay Kuyumculuk",
-        "url": "atasay.com/",
+        "url": "atasay.com",
         "sector": "",
         "boycott_reason": "Ortakları arasında AKP’li Abdülkadir Emin Önen yer alıyor.",
         "priority": "",
@@ -185,7 +185,7 @@
     },
     {
         "name": "Athica",
-        "url": "destekdukkan.com/athica?srsltid=AfmBOoovddlE7ABbeKo8yWCtm9-lVNJkQBviEHxUzyzJ01tseUxEHDlz",
+        "url": "destekdukkan.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -209,7 +209,7 @@
     },
     {
         "name": "Autocar",
-        "url": "autocar.co.uk/",
+        "url": "autocar.co.uk",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -225,7 +225,7 @@
     },
     {
         "name": "Aylak",
-        "url": "aylak.com/",
+        "url": "aylak.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -233,7 +233,7 @@
     },
     {
         "name": "Aynes",
-        "url": "aynes.com.tr/",
+        "url": "aynes.com.tr",
         "sector": "",
         "boycott_reason": "Feto dönemi TMSF el koymuş sonra tarım krediye devredilmiştir.",
         "priority": "",
@@ -241,7 +241,7 @@
     },
     {
         "name": "Bebeğim ve Biz",
-        "url": "macrocenter.com.tr/bebegim-ve-biz-p-23c36a6?srsltid=AfmBOorFtCWEmA_CdcoWB9-3pl1cbIvifDaueMIiZsm9bxoBL7QnUi92",
+        "url": "macrocenter.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -249,7 +249,7 @@
     },
     {
         "name": "Bein Connect",
-        "url": "beinconnect.com.tr/",
+        "url": "beinconnect.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -257,7 +257,7 @@
     },
     {
         "name": "Bein Sports",
-        "url": "beinsports.com.tr/",
+        "url": "beinsports.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Bellona",
-        "url": "bellona.com.tr/",
+        "url": "bellona.com.tr",
         "sector": "",
         "boycott_reason": "TMSF yönetim kurulunda olan Yusuf Öksüzömer’e aittir. (*Erciyes Anadolu Holding)",
         "priority": "",
@@ -273,7 +273,7 @@
     },
     {
         "name": "Bentley",
-        "url": "sahibinden.com/bentley",
+        "url": "sahibinden.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -281,7 +281,7 @@
     },
     {
         "name": "Bereket Döner",
-        "url": "bereketdoner.com.tr/",
+        "url": "bereketdoner.com.tr",
         "sector": "Gıda",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "DÜŞÜK",
@@ -289,7 +289,7 @@
     },
     {
         "name": "Beta",
-        "url": "betaderi.com/",
+        "url": "betaderi.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -305,7 +305,7 @@
     },
     {
         "name": "Bıyık",
-        "url": "tr.wikipedia.org/wiki/B%C4%B1y%C4%B1k",
+        "url": "tr.wikipedia.org",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -313,7 +313,7 @@
     },
     {
         "name": "Bilge Çocuk",
-        "url": "bilgecocuk.com/",
+        "url": "bilgecocuk.com",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -345,7 +345,7 @@
     },
     {
         "name": "Binbin",
-        "url": "binbin.tech/",
+        "url": "binbin.tech",
         "sector": "",
         "boycott_reason": "Kurucu ortağı Erdoğanın yeğeni.",
         "priority": "",
@@ -353,7 +353,7 @@
     },
     {
         "name": "Bingo",
-        "url": "bingo.com.tr/",
+        "url": "bingo.com.tr",
         "sector": "",
         "boycott_reason": "AKP’ye yakın Hayat Holdinge aittir.",
         "priority": "",
@@ -369,7 +369,7 @@
     },
     {
         "name": "Bizim Lokanta",
-        "url": "bizimlokanta.com.tr/",
+        "url": "bizimlokanta.com.tr",
         "sector": "",
         "boycott_reason": "Murat Ülker’e aittir.",
         "priority": "",
@@ -385,7 +385,7 @@
     },
     {
         "name": "Bor Şeker",
-        "url": "borseker.com/",
+        "url": "borseker.com",
         "sector": "",
         "boycott_reason": "Dişli ailesi, bor şeker fabrikası kendilerine peşkeş çekildi. \n  İlgili Haber",
         "priority": "",
@@ -393,7 +393,7 @@
     },
     {
         "name": "Bugatti",
-        "url": "bugatti.com/",
+        "url": "bugatti.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -401,7 +401,7 @@
     },
     {
         "name": "Burcu Salça",
-        "url": "burcu.com.tr/",
+        "url": "burcu.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi Müjdat Bahadır AKP meclis üyesi.",
         "priority": "",
@@ -409,7 +409,7 @@
     },
     {
         "name": "Burdan Yumurta ve Süt Ürünleri",
-        "url": "burdan.com.tr/",
+        "url": "burdan.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi AKP Merkez Karar ve Yönetim Kurulu üyesi Önder Matlı.",
         "priority": "",
@@ -441,7 +441,7 @@
     },
     {
         "name": "Cartoon Network",
-        "url": "cartoonnetwork.co.uk/",
+        "url": "cartoonnetwork.co.uk",
         "sector": "Medya",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -457,7 +457,7 @@
     },
     {
         "name": "China Today",
-        "url": "chinatoday.com.cn/ctenglish/",
+        "url": "chinatoday.com.cn",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -465,7 +465,7 @@
     },
     {
         "name": "Cins Dergi",
-        "url": "cins.com.tr/",
+        "url": "cins.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -473,7 +473,7 @@
     },
     {
         "name": "Cipriani İstanbul",
-        "url": "cipriani.com/cipriani-istanbul",
+        "url": "cipriani.com",
         "sector": "Gıda",
         "boycott_reason": "Doğuş Grubu iş birliğiyle yürütülüyor",
         "priority": "DÜŞÜK",
@@ -497,7 +497,7 @@
     },
     {
         "name": "Coffee & Study Türkiye",
-        "url": "coffeeandstudytr.com/",
+        "url": "coffeeandstudytr.com",
         "sector": "",
         "boycott_reason": "Sahibi Muhsin Yazıcı’nın en son 2019’da aktif olan Twitter adresinde AKP yanlısı tweetler. Kaynak",
         "priority": "",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Colombia Coffee",
-        "url": "colombiacoffeetr.com.tr/icerik/1/hakkimizda#:~:text=T%C3%BCrkiye%20merkezli%20Colombia%20Coffee%3B%20Colombiya,izledik%20ve%20profesyonel%20notlar%C4%B1m%C4%B1z%C4%B1%20ald%C4%B1k.",
+        "url": "colombiacoffeetr.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi Muhsin Yazıcı’nın en son 2019’da aktif olan Twitter adresinde AKP yanlısı tweetler. Kaynak",
         "priority": "",
@@ -513,7 +513,7 @@
     },
     {
         "name": "Conde Nast Traveller Türkiye",
-        "url": "vogue.com.tr/yazar/cntraveller-turkiye",
+        "url": "vogue.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -521,7 +521,7 @@
     },
     {
         "name": "COOKSHOP.",
-        "url": "cookshop.com.tr/",
+        "url": "cookshop.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Kazancı Holding’e aittir.",
         "priority": "",
@@ -529,7 +529,7 @@
     },
     {
         "name": "Cosmopolitan",
-        "url": "tr.wikipedia.org/wiki/Cosmopolitan_(kokteyl)",
+        "url": "tr.wikipedia.org",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -537,7 +537,7 @@
     },
     {
         "name": "Çağrı",
-        "url": "cagri.com/?srsltid=AfmBOoqxOWgVl7RQqaG5mEv4RzueM4w_VHlVw637oiLnUSdcLmYb7cLv",
+        "url": "cagri.com",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -545,7 +545,7 @@
     },
     {
         "name": "Çağrı Market",
-        "url": "cagri.com/?srsltid=AfmBOoopC3CUlrhBHEvJHTTp5QRCvFmo6vpsvBVTxlSPShcbrVE8-Vm1",
+        "url": "cagri.com",
         "sector": "",
         "boycott_reason": "Eski Üsküdar Belediye başkanı Mustafa Kara’ya ait.",
         "priority": "",
@@ -553,7 +553,7 @@
     },
     {
         "name": "Çaykur",
-        "url": "caykur.gov.tr/",
+        "url": "caykur.gov.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -569,7 +569,7 @@
     },
     {
         "name": "Çitlekçi",
-        "url": "citlekci.com.tr/?srsltid=AfmBOopi6cgf86_O3lebXELeCsDinAm5189LDeW8NEK4Oru1wDa9RbTF",
+        "url": "citlekci.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -593,7 +593,7 @@
     },
     {
         "name": "D-Smart",
-        "url": "dsmart.com.tr/",
+        "url": "dsmart.com.tr",
         "sector": "Medya",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -609,7 +609,7 @@
     },
     {
         "name": "Daily Sabah",
-        "url": "dailysabah.com/",
+        "url": "dailysabah.com",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -617,7 +617,7 @@
     },
     {
         "name": "DBL Entertainment",
-        "url": "dbltr.com/",
+        "url": "dbltr.com",
         "sector": "",
         "boycott_reason": "AKP yandaşı. Eğlence sektöründe hizmet veriyorlar. Düzenledikleri konserleri şu linkten takip edin gitmeyin. dbltr.com",
         "priority": "",
@@ -633,7 +633,7 @@
     },
     {
         "name": "Deli Dolu",
-        "url": "netflix.com/tr/title/80143556",
+        "url": "netflix.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -641,7 +641,7 @@
     },
     {
         "name": "Denizbank",
-        "url": "denizbank.com/",
+        "url": "denizbank.com",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -649,7 +649,7 @@
     },
     {
         "name": "Dergah",
-        "url": "dergah.com.tr/",
+        "url": "dergah.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -657,7 +657,7 @@
     },
     {
         "name": "Derin Tarih Dergisi",
-        "url": "derintarih.com/",
+        "url": "derintarih.com",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -665,7 +665,7 @@
     },
     {
         "name": "Dex Kitap",
-        "url": "dogankitap.com.tr/kitaplarimiz/dex",
+        "url": "dogankitap.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -681,7 +681,7 @@
     },
     {
         "name": "Diriliş Postası",
-        "url": "dirilispostasi.com/",
+        "url": "dirilispostasi.com",
         "sector": "Gazete",
         "boycott_reason": "Ali Yıldız ve Mehmet Akosman",
         "priority": "DÜŞÜK",
@@ -689,7 +689,7 @@
     },
     {
         "name": "DOD",
-        "url": "dod.com.tr/",
+        "url": "dod.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -697,7 +697,7 @@
     },
     {
         "name": "Doğan Kitap",
-        "url": "dogankitap.com.tr/",
+        "url": "dogankitap.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -705,7 +705,7 @@
     },
     {
         "name": "Doğuş Otomativ",
-        "url": "dogusotomotiv.com.tr/",
+        "url": "dogusotomotiv.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "Sahibi Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -713,7 +713,7 @@
     },
     {
         "name": "Dokuz Yayınları",
-        "url": "dokuzyayinlari.com/",
+        "url": "dokuzyayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Domingo",
-        "url": "domingo.com.tr/?srsltid=AfmBOorNognpJpfeIYGgehpI4rXMe7ZcQsnoJvxEgjDlJYFc3N8buLlq",
+        "url": "domingo.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -729,7 +729,7 @@
     },
     {
         "name": "Doruk Hastaneleri",
-        "url": "doruktip.com/",
+        "url": "doruktip.com",
         "sector": "",
         "boycott_reason": "Sahibi AKP milletvekili Mustafa Esgin’dir.",
         "priority": "",
@@ -737,7 +737,7 @@
     },
     {
         "name": "Dönerci Hacıbaba",
-        "url": "donercihacibaba.com.tr/",
+        "url": "donercihacibaba.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -769,7 +769,7 @@
     },
     {
         "name": "Dünyagöz",
-        "url": "dunyagoz.com/",
+        "url": "dunyagoz.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı. Kaynak",
         "priority": "",
@@ -785,7 +785,7 @@
     },
     {
         "name": "Efes",
-        "url": "tr.wikipedia.org/wiki/Efes",
+        "url": "tr.wikipedia.org",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Anadolu Gruba ait.",
         "priority": "",
@@ -793,7 +793,7 @@
     },
     {
         "name": "Eksik Parça",
-        "url": "eksikparca.com/",
+        "url": "eksikparca.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -809,7 +809,7 @@
     },
     {
         "name": "Emin Otomotiv",
-        "url": "eminoto.com.tr/",
+        "url": "eminoto.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -817,7 +817,7 @@
     },
     {
         "name": "Emirgan Sütiş",
-        "url": "tr.wikipedia.org/wiki/Emirgan_S%C3%BCti%C5%9F#:~:text=2%20Ele%C5%9Ftiriler-,Tarih%C3%A7e,hala%20Kocada%C4%9F%20Ailesi%20taraf%C4%B1ndan%20y%C3%B6netilmektedir.",
+        "url": "tr.wikipedia.org",
         "sector": "",
         "boycott_reason": "Espressolab ile sahipleri aynı.",
         "priority": "",
@@ -833,7 +833,7 @@
     },
     {
         "name": "Ephesus",
-        "url": "ephesusyayinlari.com/",
+        "url": "ephesusyayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -841,7 +841,7 @@
     },
     {
         "name": "Epsilon",
-        "url": "epsilonyayinevi.com/",
+        "url": "epsilonyayinevi.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -849,7 +849,7 @@
     },
     {
         "name": "Erdem Hastanesi",
-        "url": "erdemhastahanesi.com.tr/tr/",
+        "url": "erdemhastahanesi.com.tr",
         "sector": "",
         "boycott_reason": "Metin Külünk’e aittir.",
         "priority": "",
@@ -857,7 +857,7 @@
     },
     {
         "name": "Espresso Lab",
-        "url": "espressolab.com/?srsltid=AfmBOoqvKzvVmNTz7GQS1ABb7vd35AMakJGqCYn6-hoEA0afl5_Eo2hr",
+        "url": "espressolab.com",
         "sector": "Gıda",
         "boycott_reason": "Über yandaş",
         "priority": "DÜŞÜK",
@@ -865,7 +865,7 @@
     },
     {
         "name": "Espressolab",
-        "url": "espressolab.com/?srsltid=AfmBOoof8HjD6cFAJ1S9MREIiHSXlGObqDF-iO6rxceJMLUqxmmJTJHT",
+        "url": "espressolab.com",
         "sector": "",
         "boycott_reason": "Kadir Topbaş’ın oğlu ile ortaklık. Hükümet yanlısı.",
         "priority": "",
@@ -873,7 +873,7 @@
     },
     {
         "name": "ets tur",
-        "url": "etstur.com/",
+        "url": "etstur.com",
         "sector": "",
         "boycott_reason": "Kültür ve Turizm Bakanına aittir.",
         "priority": "",
@@ -881,7 +881,7 @@
     },
     {
         "name": "Eurostar",
-        "url": "eurostar.com/rw-en",
+        "url": "eurostar.com",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -889,7 +889,7 @@
     },
     {
         "name": "Eve Kozmeti Mağazaları",
-        "url": "evecareer.com.tr/sirketimiz/hakkimizda#:~:text=Renkli%20kozmetik%2C%20cilt%20bak%C4%B1m%2C%20sa%C3%A7,t%C3%BCm%20T%C3%BCrkiye'de%20hizmet%20vermektedir.",
+        "url": "evecareer.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi A101’in de sahibi olan Turgut Aydın Holding.",
         "priority": "",
@@ -897,7 +897,7 @@
     },
     {
         "name": "Everest",
-        "url": "translate.google.com/translate?u=britannica.com/place/Mount-Everest&hl=tr&sl=en&tl=tr&client=rq&prev=search#:~:text=Everest%20Da%C4%9F%C4%B1%20%2C%20G%C3%BCney%20Asya'da,D%20koordinatlar%C4%B1nda%20yer%20alan%20da%C4%9Fd%C4%B1r%20.",
+        "url": "translate.google.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -905,7 +905,7 @@
     },
     {
         "name": "Exxen",
-        "url": "exxen.com/",
+        "url": "exxen.com",
         "sector": "",
         "boycott_reason": "Tepkisizlik & Hükümet yanlısı.",
         "priority": "",
@@ -913,7 +913,7 @@
     },
     {
         "name": "Eyüp Sabri Tuncer",
-        "url": "eyupsabrituncer.com/?srsltid=AfmBOooNsrS0h3kfwakKRXnoyREckE-Ej3WDBzodkzjPqZXmiTsCDe6c",
+        "url": "eyupsabrituncer.com",
         "sector": "Kozmetik",
         "boycott_reason": "2020 sonrası şirketin bazı karar alma pozisyonlarında iktidara yakın kişiler yer aldı.",
         "priority": "DÜŞÜK",
@@ -921,7 +921,7 @@
     },
     {
         "name": "Familia",
-        "url": "familia.com.tr/",
+        "url": "familia.com.tr",
         "sector": "",
         "boycott_reason": "AKP’ye yakın Hayat Holdinge aittir.",
         "priority": "",
@@ -929,7 +929,7 @@
     },
     {
         "name": "Fanatik",
-        "url": "fanatik.com.tr/",
+        "url": "fanatik.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -937,7 +937,7 @@
     },
     {
         "name": "Faruk Güllüoğlu",
-        "url": "farukgulluoglu.com.tr/",
+        "url": "farukgulluoglu.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -945,7 +945,7 @@
     },
     {
         "name": "Fikriyat",
-        "url": "fikriyat.com/",
+        "url": "fikriyat.com",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -953,7 +953,7 @@
     },
     {
         "name": "File Market",
-        "url": "file.com.tr/",
+        "url": "file.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi BİM.",
         "priority": "",
@@ -961,7 +961,7 @@
     },
     {
         "name": "FLO",
-        "url": "flo.com.tr/",
+        "url": "flo.com.tr",
         "sector": "",
         "boycott_reason": "Ülker ve BİM ortaklığı şirketi.",
         "priority": "",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Forbes Türkiye",
-        "url": "forbes.com.tr/",
+        "url": "forbes.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -977,7 +977,7 @@
     },
     {
         "name": "Fotomaç",
-        "url": "fotomac.com.tr/",
+        "url": "fotomac.com.tr",
         "sector": "",
         "boycott_reason": "Turkuaz Medya Grubuna aittir.",
         "priority": "",
@@ -985,7 +985,7 @@
     },
     {
         "name": "Fotomaç Gazetesi",
-        "url": "fotomac.com.tr/",
+        "url": "fotomac.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -993,7 +993,7 @@
     },
     {
         "name": "FURPA",
-        "url": "furpa.com.tr/",
+        "url": "furpa.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi AKP’li.",
         "priority": "",
@@ -1001,7 +1001,7 @@
     },
     {
         "name": "Galataport İstanbul",
-        "url": "galataport.com/",
+        "url": "galataport.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Doğuş Grubuna aittir.",
         "priority": "",
@@ -1009,7 +1009,7 @@
     },
     {
         "name": "Gebze Center",
-        "url": "gebzecenter.com.tr/",
+        "url": "gebzecenter.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Doğuş Grubuna aittir.",
         "priority": "",
@@ -1017,7 +1017,7 @@
     },
     {
         "name": "Gencallar",
-        "url": "gencallar.com.tr/?srsltid=AfmBOoo4Sn4tArGK75liVB7zxEQUK3CHCtIBw2zERX8XPiodazvZnmSr",
+        "url": "gencallar.com.tr",
         "sector": "Giyim",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1025,7 +1025,7 @@
     },
     {
         "name": "Gerçek Hayat Dergisi",
-        "url": "gercekhayat.com.tr/",
+        "url": "gercekhayat.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -1033,7 +1033,7 @@
     },
     {
         "name": "Gimsa",
-        "url": "gimsa.com.tr/",
+        "url": "gimsa.com.tr",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -1041,7 +1041,7 @@
     },
     {
         "name": "Glob Coffee",
-        "url": "globcoffee.com/",
+        "url": "globcoffee.com",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1049,7 +1049,7 @@
     },
     {
         "name": "Godiva",
-        "url": "godiva.com.tr/?srsltid=AfmBOoq-pT7BQ_57vhCAGWJ63oJpFjRfQiSIl60Z5TBFtdu-TRFs86i2",
+        "url": "godiva.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir. (*Murat Ülker)",
         "priority": "",
@@ -1057,7 +1057,7 @@
     },
     {
         "name": "GQ Dergisi",
-        "url": "gq.com.tr/",
+        "url": "gq.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Doğuş Grubuna aittir.",
         "priority": "",
@@ -1065,7 +1065,7 @@
     },
     {
         "name": "GQ Türkiye",
-        "url": "gq.com.tr/",
+        "url": "gq.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "Guardian",
-        "url": "theguardian.com/",
+        "url": "theguardian.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1089,7 +1089,7 @@
     },
     {
         "name": "Gucci",
-        "url": "gucci.com/?srsltid=AfmBOoo_m8YS7im6nIbhwljqsemoH2pLAjEvHhfDPmYN3NkPjYiyr8dk",
+        "url": "gucci.com",
         "sector": "Giyim",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1097,7 +1097,7 @@
     },
     {
         "name": "Günaydın Et Restaurant",
-        "url": "gunaydinet.com/",
+        "url": "gunaydinet.com",
         "sector": "Gıda",
         "boycott_reason": "Sahibi Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "Güneş Gazetesi",
-        "url": "gunes.com/",
+        "url": "gunes.com",
         "sector": "Gazete",
         "boycott_reason": "Esmedya (Ethem Sancak)",
         "priority": "DÜŞÜK",
@@ -1113,7 +1113,7 @@
     },
     {
         "name": "GZT",
-        "url": "gzt.com/",
+        "url": "gzt.com",
         "sector": "Gazete",
         "boycott_reason": "Albayrak Medya",
         "priority": "DÜŞÜK",
@@ -1129,7 +1129,7 @@
     },
     {
         "name": "Happy Center",
-        "url": "happycenter.com.tr/",
+        "url": "happycenter.com.tr",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -1137,7 +1137,7 @@
     },
     {
         "name": "Harper's Bazaar",
-        "url": "translate.google.com/translate?u=harpersbazaar.com/&hl=tr&sl=en&tl=tr&client=srp&prev=search",
+        "url": "translate.google.com",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1145,7 +1145,7 @@
     },
     {
         "name": "Harput Dibek",
-        "url": "harputdibek.com/?srsltid=AfmBOophhuDBvd60FS2L2a_ujovY_urhmogOxZZ2tjlk6VOhfTXVY9Uw",
+        "url": "harputdibek.com",
         "sector": "",
         "boycott_reason": "Kurucusu Soyer Orhan’ın AKP’li isimlerle fotoğrafı var. Çok kısa sürede şubeleşti ve ülkenin dört bir yanına yayıldı. Bazı şubeleri AKP’li isimlerin açtığı görülüyor. Kanıt",
         "priority": "",
@@ -1153,7 +1153,7 @@
     },
     {
         "name": "HC Hair Care",
-        "url": "hc.com.tr/?srsltid=AfmBOopwQcViRmSpPCaywy3YpblxEYkKMP5rDo7psdjiSFX62rP5818J",
+        "url": "hc.com.tr",
         "sector": "Kozmetik",
         "boycott_reason": "Lider Kozmetik. HC Hair Care - Lider Kozmetik'in bazı ticari faaliyetleri ve destek aldığı projeler dolayısıyla iktidara yakın STK'larla ortak çalıştığı biliniyor.",
         "priority": "DÜŞÜK",
@@ -1161,7 +1161,7 @@
     },
     {
         "name": "HIQ Nutrition",
-        "url": "takehiq.com/?srsltid=AfmBOoqK86J5MY6gVcrdUSInxF_YzDLJWUCs6MoKcu1juPNbEwd3y8zG",
+        "url": "takehiq.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -1169,7 +1169,7 @@
     },
     {
         "name": "Hız Yayınları",
-        "url": "hizyayinlari.com/?srsltid=AfmBOoqYUCEgI4IJKqJjjvukr65glHtKATuEebEUMoDPpDpgDRHRPzck",
+        "url": "hizyayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1177,7 +1177,7 @@
     },
     {
         "name": "Hilal TV",
-        "url": "eksisozluk.com/hilal-tv--1366148",
+        "url": "eksisozluk.com",
         "sector": "Medya",
         "boycott_reason": "Akabe Vakfı",
         "priority": "DÜŞÜK",
@@ -1185,7 +1185,7 @@
     },
     {
         "name": "Hipodrom.com",
-        "url": "hipodrom.com/",
+        "url": "hipodrom.com",
         "sector": "",
         "boycott_reason": "Demirören grubuna ait at yarışı sitesi. Ülkede günlük at yarışı cirosu ortalama 100 milyon tl ilken bu sektörün atlanmaması gerekir.",
         "priority": "",
@@ -1193,7 +1193,7 @@
     },
     {
         "name": "Hobby",
-        "url": "hobikozmetik.com/",
+        "url": "hobikozmetik.com",
         "sector": "Kozmetik",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Hogan",
-        "url": "hogan.com/",
+        "url": "hogan.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -1209,7 +1209,7 @@
     },
     {
         "name": "HomeArt",
-        "url": "homeart.com.tr/",
+        "url": "homeart.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1217,7 +1217,7 @@
     },
     {
         "name": "House Beautiful",
-        "url": "housebeautiful.com/",
+        "url": "housebeautiful.com",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "Huzur",
-        "url": "huzur.com.tr/",
+        "url": "huzur.com.tr",
         "sector": "Giyim",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "Hürriyet",
-        "url": "hurriyet.com.tr/",
+        "url": "hurriyet.com.tr",
         "sector": "",
         "boycott_reason": "Demirören Medya Grubuna aittir.",
         "priority": "",
@@ -1241,7 +1241,7 @@
     },
     {
         "name": "Hyatt",
-        "url": "hyatt.com/",
+        "url": "hyatt.com",
         "sector": "Otel",
         "boycott_reason": "Doğuş Grubu'nun yatırımı altında",
         "priority": "DÜŞÜK",
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "In-Formal",
-        "url": "informal.com.tr/?srsltid=AfmBOoqknmdtAENqS3RnrcHA1wfTofFb4RxbBVWE_I9MVg2cs9jmQi1l",
+        "url": "informal.com.tr",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1257,7 +1257,7 @@
     },
     {
         "name": "In4Out",
-        "url": "n11.com/kampanyalar/in4out-acilisa-ozel-indirimler",
+        "url": "n11.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1265,7 +1265,7 @@
     },
     {
         "name": "Indigo Kitap",
-        "url": "indigodukkan.com/",
+        "url": "indigodukkan.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "İddaa",
-        "url": "iddaa.com/",
+        "url": "iddaa.com",
         "sector": "Şans Oyunları",
         "boycott_reason": "2019 yılında, Demirören Holding iştiraki olan Şans Girişim Ortak Girişimi, Spor Toto Teşkilat Başkanlığı ile yaptığı 10 yıllık sözleşme kapsamında İddaa’nın işletmesini devralmıştır. Misli, Bilyoner, Nesine, Tuttur, Birebin, Oley İddaa’nın alt kuruluşları sayılabilir. Bu sitelerden edilen kârdan iddaa pay almaktadır.",
         "priority": "DÜŞÜK",
@@ -1281,7 +1281,7 @@
     },
     {
         "name": "İdefix",
-        "url": "idefix.com/?srsltid=AfmBOopE9vy2d468ivTT8Et4Dg4_zxPu--o84ykmVUEiTX-c08a4W7Gh",
+        "url": "idefix.com",
         "sector": "",
         "boycott_reason": "Turkuaz Medya Grubuna aittir.",
         "priority": "",
@@ -1289,7 +1289,7 @@
     },
     {
         "name": "İhlas Holding",
-        "url": "ihlas.com.tr/",
+        "url": "ihlas.com.tr",
         "sector": "",
         "boycott_reason": "Hükümete olan yakınlığı bilinen holding. İhlas Ev Aletleri ve İhlas Medya Grubu gibi İhlas Holding’e bağlı markalar yer almaktadır.",
         "priority": "",
@@ -1297,7 +1297,7 @@
     },
     {
         "name": "İNTİBA Döner",
-        "url": "intiba.com.tr/",
+        "url": "intiba.com.tr",
         "sector": "",
         "boycott_reason": "Sahipleri AKP’li.",
         "priority": "",
@@ -1305,7 +1305,7 @@
     },
     {
         "name": "İpekyol",
-        "url": "ipekyol.com.tr/?srsltid=AfmBOooGaeQe6Oy66CcQnp4OrztOIbQVMSeL2nUhV-rSQ7grm65NTMFW",
+        "url": "ipekyol.com.tr",
         "sector": "",
         "boycott_reason": "Ailecek Akp yanlılar, Kızları Derya Ayaydın Akp istanbul millet vekili, Babası Aydın Ayaydın Bodrum belediye başkanlığına akp den aday oldu. İlgili Haber",
         "priority": "",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "İstikbal",
-        "url": "istikbal.com.tr/?srsltid=AfmBOopEdBoruIaOpyL-Ll1DXIMQMRcalmP4V9XvfJSa65mumGjmE6tX",
+        "url": "istikbal.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -1329,7 +1329,7 @@
     },
     {
         "name": "İstiklal Gazetesi",
-        "url": "istiklal.com.tr/",
+        "url": "istiklal.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Süleymancılar Tarikatı",
         "priority": "DÜŞÜK",
@@ -1337,7 +1337,7 @@
     },
     {
         "name": "İthaki Yayınları",
-        "url": "ithakiyayingrubu.com/",
+        "url": "ithakiyayingrubu.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "İzmir TV",
-        "url": "kanalizmir.tv/",
+        "url": "kanalizmir.tv",
         "sector": "Medya",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -1353,7 +1353,7 @@
     },
     {
         "name": "Jaguar Kitap",
-        "url": "jaguarkitap.com/tr/",
+        "url": "jaguarkitap.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "Kafa Dergisi",
-        "url": "kafadergi.com/",
+        "url": "kafadergi.com",
         "sector": "Dergi",
         "boycott_reason": "Candaş Tolga Işık",
         "priority": "DÜŞÜK",
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "Kamil Koç",
-        "url": "flixbus.com.tr/",
+        "url": "flixbus.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -1377,7 +1377,7 @@
     },
     {
         "name": "Kanal 24 TV",
-        "url": "yirmidort.tv/",
+        "url": "yirmidort.tv",
         "sector": "Medya",
         "boycott_reason": "Star Medya Grubu (Ethem Sancak)",
         "priority": "DÜŞÜK",
@@ -1385,7 +1385,7 @@
     },
     {
         "name": "Kanal 7",
-        "url": "kanal7.com/canli-izle",
+        "url": "kanal7.com",
         "sector": "Medya",
         "boycott_reason": "Yeni Dünya Medya Grubu",
         "priority": "DÜŞÜK",
@@ -1401,7 +1401,7 @@
     },
     {
         "name": "Karacadağ Su",
-        "url": "karacadagsu.com/",
+        "url": "karacadagsu.com",
         "sector": "",
         "boycott_reason": "Sahibi Eyyüp Cenap Gülpınar akpnin kurucuları aradında ve bakanlık, meclis başkanlığı gibi çeşitli görevlerde yer aldı.",
         "priority": "",
@@ -1409,7 +1409,7 @@
     },
     {
         "name": "Karacakaya Su",
-        "url": "instagram.com/karacakayaicecekgelal/p/C7o-_AdixQ_/#:~:text=%F0%9F%93%8DGel%2DAl%2019%20Litre%20Damacana%2039%E2%82%BA,-%F0%9F%93%8DS%C4%B1f%C4%B1r%20%C5%9Fi%C5%9Fe",
+        "url": "instagram.com",
         "sector": "",
         "boycott_reason": "Sahibi ve yöneticileri AKP yönetimlerindedir. Tüm su bayileri AKP ilçe yöneticilerinden oluşuyor.",
         "priority": "",
@@ -1417,7 +1417,7 @@
     },
     {
         "name": "Karar Gazetesi",
-        "url": "karar.com/",
+        "url": "karar.com",
         "sector": "Gazete",
         "boycott_reason": "Propoganda",
         "priority": "DÜŞÜK",
@@ -1425,7 +1425,7 @@
     },
     {
         "name": "Kargom Sende",
-        "url": "sikayetvar.com/kargomsende",
+        "url": "sikayetvar.com",
         "sector": "",
         "boycott_reason": "Turkuaz Grubuna aittir.",
         "priority": "",
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Kebir Süt",
-        "url": "kebirsut.com.tr/",
+        "url": "kebirsut.com.tr",
         "sector": "",
         "boycott_reason": "Karadeniz Kardeşler Gıda A.Ş firmasının ortaklarından İstanbul Bölge Sorumlusu Mehmet Karadeniz, İstanbul’un Maltepe İlçesi AK Parti İlçe Başkan Adayıdır.",
         "priority": "",
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "Kemer Country Hotel & Club",
-        "url": "kemercountry.com/tr/otel",
+        "url": "kemercountry.com",
         "sector": "",
         "boycott_reason": "Demirören Holdinge aittir.",
         "priority": "",
@@ -1449,7 +1449,7 @@
     },
     {
         "name": "Keskinoğlu Yumurta",
-        "url": "keskinoglu.com.tr/sayfa-detay/yumurta-uretimi",
+        "url": "keskinoglu.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi AKP Merkez Karar ve Yönetim Kurulu üyesi Önder Matlı.",
         "priority": "",
@@ -1457,7 +1457,7 @@
     },
     {
         "name": "Ketebe Yayınevi",
-        "url": "ketebe.com/?srsltid=AfmBOopT-waO6YVuQon6yYM8BbBCXWCKHsjFGZ_qZNOjM5VijP3bqF6G",
+        "url": "ketebe.com",
         "sector": "Yayınevi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -1465,7 +1465,7 @@
     },
     {
         "name": "KIKO MILANO",
-        "url": "kikomilano.com.tr/?srsltid=AfmBOop_YnUUoT_tKIs39nEGX-Ao9o4HDbh-744-bIouAQV_uhKg5zVy",
+        "url": "kikomilano.com.tr",
         "sector": "",
         "boycott_reason": "2015 yılında Doğuş Grubu ile ortaklık kurarak Türkiye pazarına dahil oldu.Türkiye Distribütörü Doğuş Grubu.",
         "priority": "",
@@ -1473,7 +1473,7 @@
     },
     {
         "name": "Kırmızıkedi",
-        "url": "kirmizikedi.com/",
+        "url": "kirmizikedi.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1489,7 +1489,7 @@
     },
     {
         "name": "Kızılkayalar Hamburger",
-        "url": "kizilkayalar.com.tr/",
+        "url": "kizilkayalar.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "Kiko Milano",
-        "url": "kikomilano.com.tr/?srsltid=AfmBOopPsF0U7lBUNKcQLFjFxub5JDTqDHQbQ_iWdcC63KUJNDrirDp0",
+        "url": "kikomilano.com.tr",
         "sector": "Kozmetik",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -1505,7 +1505,7 @@
     },
     {
         "name": "Kiler",
-        "url": "kilerholding.com/",
+        "url": "kilerholding.com",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -1513,7 +1513,7 @@
     },
     {
         "name": "Kilim Mobilya",
-        "url": "kilimmobilya.com.tr/",
+        "url": "kilimmobilya.com.tr",
         "sector": "",
         "boycott_reason": "Demirören Holdinge aittir.",
         "priority": "",
@@ -1529,7 +1529,7 @@
     },
     {
         "name": "Kipper",
-        "url": "kipper.ai/",
+        "url": "kipper.ai",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -1537,7 +1537,7 @@
     },
     {
         "name": "Kitap Yurdu",
-        "url": "kitapyurdu.com/?srsltid=AfmBOopibv_80rq9W5UO6ghYf-CqPdiGhaTfg-bHN2dhgXZAn4x0MEEs",
+        "url": "kitapyurdu.com",
         "sector": "",
         "boycott_reason": "Sahibi cumhuriyet düşmanıdır. Kaynak",
         "priority": "",
@@ -1545,7 +1545,7 @@
     },
     {
         "name": "Kolektif",
-        "url": "kolektifhouse.co/",
+        "url": "kolektifhouse.co",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1553,7 +1553,7 @@
     },
     {
         "name": "Komili",
-        "url": "komilizeytinyagi.com.tr/",
+        "url": "komilizeytinyagi.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -1561,7 +1561,7 @@
     },
     {
         "name": "Kopernik Kitap",
-        "url": "kopernikkitap.com.tr/?srsltid=AfmBOoreAUb0LJHDjcr0YaN3A2mTTOYFpQciRF7qDQWt-HVAxEx8kvL8",
+        "url": "kopernikkitap.com.tr",
         "sector": "",
         "boycott_reason": "Para kazandığı kesimi vatan haini olarak etiketleyen abdülkadir özkan’ın sahibi olduğu firmadır.",
         "priority": "",
@@ -1569,7 +1569,7 @@
     },
     {
         "name": "Kral FM",
-        "url": "kralmuzik.com.tr/radyo/kral-fm",
+        "url": "kralmuzik.com.tr",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1577,7 +1577,7 @@
     },
     {
         "name": "Kral POP TV",
-        "url": "kralmuzik.com.tr/tv/kral-pop-tv",
+        "url": "kralmuzik.com.tr",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1585,7 +1585,7 @@
     },
     {
         "name": "Kral TV",
-        "url": "tr.wikipedia.org/wiki/Kral_TV",
+        "url": "tr.wikipedia.org",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1593,7 +1593,7 @@
     },
     {
         "name": "Kral TV & Kral FM",
-        "url": "kralmuzik.com.tr/radyo/kral-fm",
+        "url": "kralmuzik.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Doğuş Grubuna aittir.",
         "priority": "",
@@ -1601,7 +1601,7 @@
     },
     {
         "name": "Kral World Radyo",
-        "url": "kralmuzik.com.tr/yayin-akisi/kral-world-radyo",
+        "url": "kralmuzik.com.tr",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1609,7 +1609,7 @@
     },
     {
         "name": "Kralpop Radyo",
-        "url": "kralmuzik.com.tr/radyo/kral-pop",
+        "url": "kralmuzik.com.tr",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1617,7 +1617,7 @@
     },
     {
         "name": "Krone",
-        "url": "int.krone-trailer.com/t%C3%BCrk%C3%A7e/",
+        "url": "int.krone-trailer.com",
         "sector": "Otomotiv",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "Lacivert",
-        "url": "lacivertrestaurant.com/",
+        "url": "lacivertrestaurant.com",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1633,7 +1633,7 @@
     },
     {
         "name": "Lakırtı Cafe",
-        "url": "instagram.com/cafelakirti/",
+        "url": "instagram.com",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1641,7 +1641,7 @@
     },
     {
         "name": "Lamborghini",
-        "url": "sahibinden.com/lamborghini",
+        "url": "sahibinden.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -1649,7 +1649,7 @@
     },
     {
         "name": "Lapis",
-        "url": "tassandigi.com/lapis-lazuli-tasi#:~:text=%C3%96zellikle%20eski%20M%C4%B1s%C4%B1r%20medeniyetinde%20kullan%C4%B1lan,%C3%BCzerinde%20olumlu%20etkileri%20oldu%C4%9Funa%20inan%C4%B1l%C4%B1r.",
+        "url": "tassandigi.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1657,7 +1657,7 @@
     },
     {
         "name": "LC Waikiki",
-        "url": "lcw.com/?srsltid=AfmBOorwmfFNoP6NsNqSP7uyFwsD-E81u7TfGC6yz-bMM3HMcY8_cipb",
+        "url": "lcw.com",
         "sector": "",
         "boycott_reason": "Ortaklarından Şefik Yılmaz Dizdar AKP’li. İlgili Haber",
         "priority": "",
@@ -1673,7 +1673,7 @@
     },
     {
         "name": "Lig Radyo",
-        "url": "ligradyo.com.tr/",
+        "url": "ligradyo.com.tr",
         "sector": "Radyo",
         "boycott_reason": "TürkMedya",
         "priority": "DÜŞÜK",
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Liv Hospital",
-        "url": "livhospital.com/",
+        "url": "livhospital.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı. Kaynak",
         "priority": "",
@@ -1689,7 +1689,7 @@
     },
     {
         "name": "Lokma Dergisi",
-        "url": "birlikte.com.tr/lokma?srsltid=AfmBOoprfKshiJkZQH3F_bekaiJgJyd5W9HMAxclU0wNFy4P8aW1HvZz",
+        "url": "birlikte.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -1697,7 +1697,7 @@
     },
     {
         "name": "Loro Piana",
-        "url": "loropiana.com/",
+        "url": "loropiana.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -1705,7 +1705,7 @@
     },
     {
         "name": "Love Moschino",
-        "url": "boyner.com.tr/love-moschino-b-684?srsltid=AfmBOopD30JgKoPhDSF7gGMIvh0Ka8Opjampq9Pb_--LQze0o-qiELPd",
+        "url": "boyner.com.tr",
         "sector": "Giyim",
         "boycott_reason": "Doğuş bağlantılı satış noktaları bulunuyor",
         "priority": "DÜŞÜK",
@@ -1713,7 +1713,7 @@
     },
     {
         "name": "M Missoni",
-        "url": "missoni.com/",
+        "url": "missoni.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "Machka",
-        "url": "machka.com.tr/?srsltid=AfmBOorMalp5PsyPG9UvEP7dzZQnx4ouH9ysfhGaEbd4bElZYyS-LG7-",
+        "url": "machka.com.tr",
         "sector": "",
         "boycott_reason": "Ayaydın ailesine aittir.",
         "priority": "",
@@ -1729,7 +1729,7 @@
     },
     {
         "name": "Mado",
-        "url": "mado.com.tr/",
+        "url": "mado.com.tr",
         "sector": "Gıda",
         "boycott_reason": "gezi süreci Hükümet yanlısı.",
         "priority": "DÜŞÜK",
@@ -1737,7 +1737,7 @@
     },
     {
         "name": "MARTI",
-        "url": "marti.tech/",
+        "url": "marti.tech",
         "sector": "",
         "boycott_reason": "Sahibi Eyyüp Cenap Gülpınar akpnin kurucuları aradında ve bakanlık, meclis başkanlığı gibi çeşitli görevlerde yer aldı.Martı Tag’ın sahibi konu kendi menfaatleri oluna “hak hukuk adalet” derken bu protestolara sessiz kalıyor.",
         "priority": "",
@@ -1745,7 +1745,7 @@
     },
     {
         "name": "Martı Yayın Grubu",
-        "url": "b2b.martiyayinlari.com/",
+        "url": "b2b.martiyayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1753,7 +1753,7 @@
     },
     {
         "name": "Mavi",
-        "url": "mavi.com/",
+        "url": "mavi.com",
         "sector": "Giyim",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "Maxx Royal Resorts",
-        "url": "maxxroyal.com/",
+        "url": "maxxroyal.com",
         "sector": "",
         "boycott_reason": "Kültür ve Turizm Bakanına aittir.",
         "priority": "",
@@ -1769,7 +1769,7 @@
     },
     {
         "name": "Maya Kitap",
-        "url": "mayayayinlari.com/",
+        "url": "mayayayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1777,7 +1777,7 @@
     },
     {
         "name": "McDonalds",
-        "url": "mcdonalds.com.tr/",
+        "url": "mcdonalds.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1785,7 +1785,7 @@
     },
     {
         "name": "McVitie’s",
-        "url": "migros.com.tr/mcvities-b-24c?srsltid=AfmBOoreBixt2oaTB9afRc6d9r0tIuEUGkyYJv0cvrRy9q4feDLXh6TK",
+        "url": "migros.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Mecra",
-        "url": "instagram.com/mecrada/",
+        "url": "instagram.com",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1801,7 +1801,7 @@
     },
     {
         "name": "Medical Park Hastanesi",
-        "url": "medicalpark.com.tr/medical-park-hastaneleri",
+        "url": "medicalpark.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı. Kaynak",
         "priority": "",
@@ -1809,7 +1809,7 @@
     },
     {
         "name": "Medipol Hastanesi",
-        "url": "medipol.com.tr/",
+        "url": "medipol.com.tr",
         "sector": "",
         "boycott_reason": "Eski AKP’li sağlık bakanına ait.",
         "priority": "",
@@ -1817,7 +1817,7 @@
     },
     {
         "name": "Meiller",
-        "url": "meiller.com/",
+        "url": "meiller.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -1833,7 +1833,7 @@
     },
     {
         "name": "Memorial Hastanesi",
-        "url": "memorial.com.tr/",
+        "url": "memorial.com.tr",
         "sector": "",
         "boycott_reason": "Kurucusu Turgut Aydın AKP’li.",
         "priority": "",
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Mezzaluna",
-        "url": "mezzaluna.com.tr/",
+        "url": "mezzaluna.com.tr",
         "sector": "Gıda",
         "boycott_reason": "Sahibi Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -1857,7 +1857,7 @@
     },
     {
         "name": "Mikel Coffee",
-        "url": "mikelcoffee.com.tr/",
+        "url": "mikelcoffee.com.tr",
         "sector": "",
         "boycott_reason": "Kurucuları Kadir Ergün ve Rana Yazıcı AKP’li. Espressolab gibi türüyorlar. Kanıt",
         "priority": "",
@@ -1865,7 +1865,7 @@
     },
     {
         "name": "Milangaz",
-        "url": "milangaz.com.tr/",
+        "url": "milangaz.com.tr",
         "sector": "Gaz",
         "boycott_reason": "Demirören Holding sahibi",
         "priority": "DÜŞÜK",
@@ -1873,7 +1873,7 @@
     },
     {
         "name": "Milat Gazetesi",
-        "url": "milatgazetesi.com/",
+        "url": "milatgazetesi.com",
         "sector": "Gazete",
         "boycott_reason": "Propoganda",
         "priority": "DÜŞÜK",
@@ -1881,7 +1881,7 @@
     },
     {
         "name": "Milli Piyango",
-        "url": "millipiyangoonline.com/",
+        "url": "millipiyangoonline.com",
         "sector": "Şans Oyunları",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -1889,7 +1889,7 @@
     },
     {
         "name": "Milliyet",
-        "url": "milliyet.com.tr/",
+        "url": "milliyet.com.tr",
         "sector": "",
         "boycott_reason": "Demirören Medya Grubuna aittir.",
         "priority": "",
@@ -1897,7 +1897,7 @@
     },
     {
         "name": "Milliyet Gazetesi",
-        "url": "milliyet.com.tr/",
+        "url": "milliyet.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -1905,7 +1905,7 @@
     },
     {
         "name": "Minika",
-        "url": "minika.com.tr/",
+        "url": "minika.com.tr",
         "sector": "Medya",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -1913,7 +1913,7 @@
     },
     {
         "name": "Mis",
-        "url": "ybs.if.duzce.edu.tr/sayfa/8c3d/management-information-system-mis-nedir-#:~:text=Management%20Information%20System(Y%C3%B6netim%20Bili%C5%9Fim,MIS'in%20en%20%C3%B6nemli%20g%C3%B6revidir.",
+        "url": "ybs.if.duzce.edu.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -1929,7 +1929,7 @@
     },
     {
         "name": "MKB Yayın",
-        "url": "bkmkitap.com/mkb-halk-kutuphanesi-yayinevi?srsltid=AfmBOoq15LlnSveELaYoWUAJNLFxe4SMAmCwpgN90HsA0sx_FWCKvp9d",
+        "url": "bkmkitap.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Molfix",
-        "url": "molfix.com.tr/",
+        "url": "molfix.com.tr",
         "sector": "",
         "boycott_reason": "AKP’ye yakın Hayat Holdinge aittir.",
         "priority": "",
@@ -1945,7 +1945,7 @@
     },
     {
         "name": "Molped",
-        "url": "molped.com.tr/",
+        "url": "molped.com.tr",
         "sector": "",
         "boycott_reason": "AKP’ye yakın Hayat Holdinge aittir.",
         "priority": "",
@@ -1953,7 +1953,7 @@
     },
     {
         "name": "Mona Kitap",
-        "url": "monakitap.com/",
+        "url": "monakitap.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Mondihome",
-        "url": "mondihome.com.tr/",
+        "url": "mondihome.com.tr",
         "sector": "",
         "boycott_reason": "TMSF yönetim kurulunda olan Yusuf Öksüzömer’e aittir. (*Erciyes Anadolu Holding)",
         "priority": "",
@@ -1969,7 +1969,7 @@
     },
     {
         "name": "Mopaş",
-        "url": "mopas.com.tr/",
+        "url": "mopas.com.tr",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -1977,7 +1977,7 @@
     },
     {
         "name": "Mubi",
-        "url": "mubi.com/tr/tr",
+        "url": "mubi.com",
         "sector": "",
         "boycott_reason": "Tepkisizlik.",
         "priority": "",
@@ -1993,7 +1993,7 @@
     },
     {
         "name": "Namet",
-        "url": "namet.com.tr/",
+        "url": "namet.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi Kayarlar grup AKP yanlısı. Payitaht dizisinde bu aileye yer verildi, onlara kıyak olsun diye. Faruk kayar ve ailesi.",
         "priority": "",
@@ -2001,7 +2001,7 @@
     },
     {
         "name": "Namlı",
-        "url": "namligurme.com.tr/",
+        "url": "namligurme.com.tr",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -2009,7 +2009,7 @@
     },
     {
         "name": "Nautica",
-        "url": "nautica-tr.com/?srsltid=AfmBOopZ_bWx8mDHGsRB4krkOmU0WAbiPwZXLpPfmUkYa3jHHZ8jcc3p",
+        "url": "nautica-tr.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -2017,7 +2017,7 @@
     },
     {
         "name": "NBA TV",
-        "url": "nba.com/watch/nba-tv",
+        "url": "nba.com",
         "sector": "Medya",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2025,7 +2025,7 @@
     },
     {
         "name": "Nemesis Kitap",
-        "url": "nemesiskitap.com/",
+        "url": "nemesiskitap.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2033,7 +2033,7 @@
     },
     {
         "name": "Nihayet Dergisi",
-        "url": "birlikte.com.tr/nihayet?srsltid=AfmBOooGnUQiL3B3FWV_M_ujY1dj3OwsjgIhFcQre1gMsA-H7ZQmbiuF",
+        "url": "birlikte.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -2041,7 +2041,7 @@
     },
     {
         "name": "Nox",
-        "url": "bignox.com/",
+        "url": "bignox.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Nusret",
-        "url": "nusr-et.com.tr/anasayfa.aspx",
+        "url": "nusr-et.com.tr",
         "sector": "Gıda",
         "boycott_reason": "Sahibi Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Oleksa Yayınevi",
-        "url": "kitapyurdu.com/yayinevi/oleksa-yayinevi/11307.html?srsltid=AfmBOootQZLxmJVqmef0oyeOqssZUqU6QZ84SSQTHYsFinQv1knS3rTC",
+        "url": "kitapyurdu.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2097,7 +2097,7 @@
     },
     {
         "name": "Olimpos",
-        "url": "rentgo.com/tr/antalya-olimpos-gezilecek-yerler",
+        "url": "rentgo.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2105,7 +2105,7 @@
     },
     {
         "name": "Otohaber",
-        "url": "otohaber.com.tr/",
+        "url": "otohaber.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2113,7 +2113,7 @@
     },
     {
         "name": "Pablo Artisan Coffee",
-        "url": "pabloartisancoffee.com/",
+        "url": "pabloartisancoffee.com",
         "sector": "",
         "boycott_reason": "Sahibi AKP’li.",
         "priority": "",
@@ -2121,7 +2121,7 @@
     },
     {
         "name": "Papia",
-        "url": "papia.com.tr/",
+        "url": "papia.com.tr",
         "sector": "",
         "boycott_reason": "AKP’ye yakın Hayat Holdinge aittir.",
         "priority": "",
@@ -2129,7 +2129,7 @@
     },
     {
         "name": "Para Dergisi",
-        "url": "paradergi.com.tr/",
+        "url": "paradergi.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2137,7 +2137,7 @@
     },
     {
         "name": "Park Hyatt İstanbul – Maçka Palas",
-        "url": "hyatt.com/tr-TR/hotel/turkey/park-hyatt-istanbul-macka-palas/istph",
+        "url": "hyatt.com",
         "sector": "Otel",
         "boycott_reason": "Doğuş Grubu'nun yatırımı altında",
         "priority": "DÜŞÜK",
@@ -2145,7 +2145,7 @@
     },
     {
         "name": "Pastavilla",
-        "url": "pastavilla.com.tr/",
+        "url": "pastavilla.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2153,7 +2153,7 @@
     },
     {
         "name": "Paşa Döner",
-        "url": "pasadoneronline.com/",
+        "url": "pasadoneronline.com",
         "sector": "",
         "boycott_reason": "AKP İstanbul il başkanı Bayram Şenocak’ın sahibi olduğu döner zinciri markası.",
         "priority": "",
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "Pegasus Yayınları",
-        "url": "pegasusyayinlari.com/",
+        "url": "pegasusyayinlari.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2169,7 +2169,7 @@
     },
     {
         "name": "Perseus Yayınevi",
-        "url": "perseusyayinevi.com/",
+        "url": "perseusyayinevi.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2177,7 +2177,7 @@
     },
     {
         "name": "Pınar Süt Ürünleri",
-        "url": "pinar.com.tr/urunler/sut-urun-kategori/Site-Haritasi/3416/0/0",
+        "url": "pinar.com.tr",
         "sector": "",
         "boycott_reason": "2017 yılında, Yaşar Holding Yönetim Kurulu Başkanı Selim Yaşar’ın referandum sonuçlarına ilişkin kişisel sosyal medya paylaşımları, kamuoyunda geniş yankı uyandırmıştır. Selim Yaşar, referandumda ‘Evet’ oyunun doğru bir karar olduğunu belirtmiş ve İzmir’in Karşıyaka ilçesinde yüksek oranda ‘Hayır’ oyu çıkması nedeniyle, holdingin Karşıyaka Basketbol Takımı’na olan sponsorluğunu gözden geçirebileceğini ifade etmiştir. İlgili Haber",
         "priority": "",
@@ -2185,7 +2185,7 @@
     },
     {
         "name": "Pierre Cardin Türkiye",
-        "url": "pierrecardin.com.tr/",
+        "url": "pierrecardin.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Zorlu Holding’a aittir.",
         "priority": "",
@@ -2193,7 +2193,7 @@
     },
     {
         "name": "Piyale",
-        "url": "yenitekozel.com.tr/tr/markalarimiz/marka/piyale",
+        "url": "yenitekozel.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "Pizza Lazza",
-        "url": "pizzalazza.com.tr/",
+        "url": "pizzalazza.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi A101’in de sahibi olan Turgut Aydın Holding.",
         "priority": "",
@@ -2209,7 +2209,7 @@
     },
     {
         "name": "Poll Production",
-        "url": "pollproduction.com/",
+        "url": "pollproduction.com",
         "sector": "",
         "boycott_reason": "Kuruçeşme Açıkhava, Cinepoll de dahil olmak üzere bir çok filmin ve sanatçının yapımcısı. Kanıt",
         "priority": "",
@@ -2217,7 +2217,7 @@
     },
     {
         "name": "Populist",
-        "url": "thepopulist.com.tr/",
+        "url": "thepopulist.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2225,7 +2225,7 @@
     },
     {
         "name": "Porsche",
-        "url": "porsche.com/turkey",
+        "url": "porsche.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2233,7 +2233,7 @@
     },
     {
         "name": "Post Öykü Dergisi",
-        "url": "birlikte.com.tr/post-oyku?srsltid=AfmBOorNAjfJ79D-RSekfRK82yRlWwOdFwWPfC0IXxx8Wk-m9yp_GjU_",
+        "url": "birlikte.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -2241,7 +2241,7 @@
     },
     {
         "name": "Posta",
-        "url": "posta.com.tr/",
+        "url": "posta.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2249,7 +2249,7 @@
     },
     {
         "name": "PTT",
-        "url": "ptt.gov.tr/",
+        "url": "ptt.gov.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2257,7 +2257,7 @@
     },
     {
         "name": "Puhu TV",
-        "url": "puhutv.com/",
+        "url": "puhutv.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Doğuş Grubuna aittir.",
         "priority": "",
@@ -2265,7 +2265,7 @@
     },
     {
         "name": "puhutv",
-        "url": "puhutv.com/",
+        "url": "puhutv.com",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2273,7 +2273,7 @@
     },
     {
         "name": "Pukka",
-        "url": "pukkaksesuar.com/",
+        "url": "pukkaksesuar.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Radyo ABC",
-        "url": "my-radios.com/tr/radio/Dinle/29849/ABC-Lounge-Radio",
+        "url": "my-radios.com",
         "sector": "Radyo",
         "boycott_reason": "Star Medya Grubu (Ethem Sancak)",
         "priority": "DÜŞÜK",
@@ -2289,7 +2289,7 @@
     },
     {
         "name": "Radyo D",
-        "url": "radyod.com/",
+        "url": "radyod.com",
         "sector": "Radyo",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2297,7 +2297,7 @@
     },
     {
         "name": "Radyo Eksen",
-        "url": "radioeksen.com/",
+        "url": "radioeksen.com",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2313,7 +2313,7 @@
     },
     {
         "name": "Radyo Voyage",
-        "url": "radyovoyage.com/",
+        "url": "radyovoyage.com",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2321,7 +2321,7 @@
     },
     {
         "name": "Regal",
-        "url": "regal-tr.com/?srsltid=AfmBOoqYYxT1Q2vD6dpGSW-6VK7ixIvuW3sj1CHUb29-hq0uLFOCUMMh",
+        "url": "regal-tr.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Zorlu Grubuna aittir.",
         "priority": "",
@@ -2329,7 +2329,7 @@
     },
     {
         "name": "Ren Kitap",
-        "url": "renkitap.com/",
+        "url": "renkitap.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2337,7 +2337,7 @@
     },
     {
         "name": "Roka",
-        "url": "memorial.com.tr/saglik-rehberi/rokanin-faydalari-nelerdir#:~:text=Rokada%20A%2C%20C%2C%20K%20vitamini,ba%C4%9F%C4%B1%C5%9F%C4%B1kl%C4%B1%C4%9F%C4%B1%20g%C3%BC%C3%A7lendirir%20ve%20kanserle%20sava%C5%9F%C4%B1r.",
+        "url": "memorial.com.tr",
         "sector": "Gıda",
         "boycott_reason": "Doğuş ile giriş yaptı",
         "priority": "DÜŞÜK",
@@ -2345,7 +2345,7 @@
     },
     {
         "name": "Romantik Radyo",
-        "url": "romantikturk.com.tr/",
+        "url": "romantikturk.com.tr",
         "sector": "Radyo",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2353,7 +2353,7 @@
     },
     {
         "name": "Sabah Gazetesi",
-        "url": "sabah.com.tr/",
+        "url": "sabah.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2361,7 +2361,7 @@
     },
     {
         "name": "Saray Muhallebicisi",
-        "url": "online.saraymuhallebicisi.com/?srsltid=AfmBOor5pv6xNdnBFRr75aSgdb-O1eGpKCh2sCD008IokgM3RvMh4eLC",
+        "url": "online.saraymuhallebicisi.com",
         "sector": "",
         "boycott_reason": "Topbaş ailesine aittir.",
         "priority": "",
@@ -2369,7 +2369,7 @@
     },
     {
         "name": "Scania",
-        "url": "scania.com/tr/tr/anasayfa.html",
+        "url": "scania.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2377,7 +2377,7 @@
     },
     {
         "name": "SEAT",
-        "url": "seat.com.tr/",
+        "url": "seat.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2385,7 +2385,7 @@
     },
     {
         "name": "Seç Baklava",
-        "url": "secbaklava.com/",
+        "url": "secbaklava.com",
         "sector": "",
         "boycott_reason": "Sahibinin ağabeyi adana akp il başkan Yardımcısı Serdar Oğuz.",
         "priority": "",
@@ -2393,7 +2393,7 @@
     },
     {
         "name": "Seç Market",
-        "url": "secmarket.com.tr/",
+        "url": "secmarket.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir. Not: Franchising mantığıyla ilerliyorlarmış. Her şubenin sahibi farklı kişilermiş.",
         "priority": "",
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "Sırma Su",
-        "url": "rekabet.gov.tr/Karar?kararId=da620190-1508-41d8-b653-dc51b6e7c59e#:~:text=Karabacak%20Holding%20A.%C5%9E.'nin%20y%C3%B6netimde%20belirleyici%20etkisinin%20olmad%C4%B1%C4%9F%C4%B1,n%C4%B1n%20kontrol%C3%BCne%20sahip%20olaca%C4%9F%C4%B1%20anla%C5%9F%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.",
+        "url": "rekabet.gov.tr",
         "sector": "",
         "boycott_reason": "THY, İBB CHP’ye geçince Hamidiye Su ile olan anlaşmasını iptal edip sırma su ile anlaşmıştı. AKP’li Dişli ailesi. İlgili Haber",
         "priority": "",
@@ -2409,7 +2409,7 @@
     },
     {
         "name": "Simit Sarayı",
-        "url": "simitsarayi.com/",
+        "url": "simitsarayi.com",
         "sector": "Gıda",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "DÜŞÜK",
@@ -2417,7 +2417,7 @@
     },
     {
         "name": "Sinangil Un",
-        "url": "sinangil.com.tr/",
+        "url": "sinangil.com.tr",
         "sector": "",
         "boycott_reason": "Tikvenli ailesi AKP’li. Kaynak",
         "priority": "",
@@ -2425,7 +2425,7 @@
     },
     {
         "name": "Sinehane",
-        "url": "sinehane.com.tr/",
+        "url": "sinehane.com.tr",
         "sector": "",
         "boycott_reason": "Turkuaz Medya Grubuna aittir. Sinema filmlerini Instagram üzerinden takip edebilirsiniz izlemeyin izlettirmeyin.",
         "priority": "",
@@ -2433,7 +2433,7 @@
     },
     {
         "name": "Sinoz Kozmetik",
-        "url": "sinoz.com.tr/",
+        "url": "sinoz.com.tr",
         "sector": "Kozmetik",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2441,7 +2441,7 @@
     },
     {
         "name": "Sisal Şans",
-        "url": "sisalsans.com/",
+        "url": "sisalsans.com",
         "sector": "Şans Oyunları",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2449,7 +2449,7 @@
     },
     {
         "name": "Skoda",
-        "url": "skoda.com.tr/",
+        "url": "skoda.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2457,7 +2457,7 @@
     },
     {
         "name": "Skyroad Dergi",
-        "url": "gzt.com/skyroad",
+        "url": "gzt.com",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Sleepy",
-        "url": "market.sleepy.com.tr/?srsltid=AfmBOooyDha_adAmQUWDg9vRBE3NcMzTInquGbysQ-ZKIu8VkbysY_kV",
+        "url": "market.sleepy.com.tr",
         "sector": "",
         "boycott_reason": "Eski gaziantep AKP il başkan yardımcısı ve AKP 28.dönem milletvekili aday adayına ait.",
         "priority": "",
@@ -2473,7 +2473,7 @@
     },
     {
         "name": "Sofra Dergisi",
-        "url": "sofra.com.tr/",
+        "url": "sofra.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2481,7 +2481,7 @@
     },
     {
         "name": "Soulmate Coffee",
-        "url": "soulmate.com.tr/videolar.html#:~:text=NED%C4%B0R%3F-,Nitelikli%20kahve%20hakk%C4%B1nda%20merak%20ettiklerimizi%2C%20Soulmate%20Coffee'nin%20kurucusu%20Alper,tutkusunu%20Alper%20Ulus'tan%20dinleyelim.&text=COFFEE%20BRAZIL'%C4%B0N-,%C3%96ZELL%C4%B0KLER%C4%B0%3F,k%C4%B1tas%C4%B1n%C4%B1n%20en%20b%C3%BCy%C3%BCk%20%C3%BClkesi%3B%20Brezilya!",
+        "url": "soulmate.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2489,7 +2489,7 @@
     },
     {
         "name": "Spor Smart",
-        "url": "dsmartgo.com.tr/tv-izle/spor-smart/11909",
+        "url": "dsmartgo.com.tr",
         "sector": "Medya",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2497,7 +2497,7 @@
     },
     {
         "name": "Star Gazetesi",
-        "url": "m.star.com.tr/",
+        "url": "m.star.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Star Medya Grubu (Ethem Sancak)",
         "priority": "DÜŞÜK",
@@ -2505,7 +2505,7 @@
     },
     {
         "name": "Star TV",
-        "url": "startv.com.tr/",
+        "url": "startv.com.tr",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Starbucks",
-        "url": "starbucks.com.tr/",
+        "url": "starbucks.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2521,7 +2521,7 @@
     },
     {
         "name": "SunExpress",
-        "url": "sunexpress.com/tr-tr/",
+        "url": "sunexpress.com",
         "sector": "",
         "boycott_reason": "Türk hava yollarına ait.",
         "priority": "",
@@ -2529,7 +2529,7 @@
     },
     {
         "name": "Super Coffee",
-        "url": "supercoffee.com.tr/",
+        "url": "supercoffee.com.tr",
         "sector": "Gıda",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2537,7 +2537,7 @@
     },
     {
         "name": "SuperFresh",
-        "url": "superfresh.com.tr/tr",
+        "url": "superfresh.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -2545,7 +2545,7 @@
     },
     {
         "name": "Şamdan Plus Dergisi",
-        "url": "samdan.com.tr/",
+        "url": "samdan.com.tr",
         "sector": "Dergi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2553,7 +2553,7 @@
     },
     {
         "name": "Şok Market",
-        "url": "sokmarket.com.tr/?srsltid=AfmBOopX_JRrXS7WcXP9_0XGGZIqPq9Tx8zmM2MitFNR-lE_Vdq0_B2j",
+        "url": "sokmarket.com.tr",
         "sector": "",
         "boycott_reason": "Yıldız Holdinge aittir.",
         "priority": "",
@@ -2561,7 +2561,7 @@
     },
     {
         "name": "Şop",
-        "url": "hurriyet.com.tr/egitim/sop-nasil-yazilir-sop-kelimesinin-tdkya-gore-dogru-yazilisi-42070632",
+        "url": "hurriyet.com.tr",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -2569,7 +2569,7 @@
     },
     {
         "name": "Tabii",
-        "url": "tabii.com/",
+        "url": "tabii.com",
         "sector": "",
         "boycott_reason": "TRT’ye aittir.",
         "priority": "",
@@ -2577,7 +2577,7 @@
     },
     {
         "name": "TAÇ",
-        "url": "tac.com.tr/?srsltid=AfmBOooR81Sx807yk6PEom4JQQ-VzYY-VQIRHIYsnH0KwKqriAYXxWIP",
+        "url": "tac.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Zorlu Holding’a aittir.",
         "priority": "",
@@ -2585,7 +2585,7 @@
     },
     {
         "name": "Takvim Gazetesi",
-        "url": "takvim.com.tr/",
+        "url": "takvim.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2593,7 +2593,7 @@
     },
     {
         "name": "TCHIBO",
-        "url": "tchibo.com.tr/?srsltid=AfmBOopSzKEPGTfEYbJ5ZE9fMDecZxRzAOQ2sV3XJ5nTTYht7NaK4jNn",
+        "url": "tchibo.com.tr",
         "sector": "",
         "boycott_reason": "Kafecan Gıda türkiye distribütörlüğünü yapıyor. Kafecan Gıda patronu Betül Demirok, 28. dönem akp antalya milletvekili adayı.",
         "priority": "",
@@ -2601,7 +2601,7 @@
     },
     {
         "name": "teve2",
-        "url": "teve2.com.tr/canli-yayin",
+        "url": "teve2.com.tr",
         "sector": "Medya",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2609,7 +2609,7 @@
     },
     {
         "name": "TGRT",
-        "url": "tgrthaber.com/",
+        "url": "tgrthaber.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı İhlas Holdinge aittir.",
         "priority": "",
@@ -2617,7 +2617,7 @@
     },
     {
         "name": "TGRT Haber",
-        "url": "tgrthaber.com/",
+        "url": "tgrthaber.com",
         "sector": "Medya",
         "boycott_reason": "İhlas Holding",
         "priority": "DÜŞÜK",
@@ -2625,7 +2625,7 @@
     },
     {
         "name": "Thermo",
-        "url": "thermofisher.com/us/en/home.html",
+        "url": "thermofisher.com",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2633,7 +2633,7 @@
     },
     {
         "name": "tiedup",
-        "url": "tiedup.com.tr/",
+        "url": "tiedup.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi Rana Yazıcı AKP’li.",
         "priority": "",
@@ -2641,7 +2641,7 @@
     },
     {
         "name": "Timaş",
-        "url": "timas.com.tr/anasayfa",
+        "url": "timas.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2649,7 +2649,7 @@
     },
     {
         "name": "Tod's",
-        "url": "tods.com/",
+        "url": "tods.com",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -2657,7 +2657,7 @@
     },
     {
         "name": "Togg",
-        "url": "togg.com.tr/",
+        "url": "togg.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2665,7 +2665,7 @@
     },
     {
         "name": "TRT",
-        "url": "trt.net.tr/",
+        "url": "trt.net.tr",
         "sector": "Medya",
         "boycott_reason": "Propoganda medyası",
         "priority": "DÜŞÜK",
@@ -2673,7 +2673,7 @@
     },
     {
         "name": "Turkcell",
-        "url": "turkcell.com.tr/",
+        "url": "turkcell.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2681,7 +2681,7 @@
     },
     {
         "name": "Turkuvaz Efsane",
-        "url": "724dinle.com/radyo/turkuvazefsane",
+        "url": "724dinle.com",
         "sector": "Radyo",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2689,7 +2689,7 @@
     },
     {
         "name": "Turkuvaz Romantik",
-        "url": "724dinle.com/radyo/turkuvazromantik",
+        "url": "724dinle.com",
         "sector": "Radyo",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2697,7 +2697,7 @@
     },
     {
         "name": "Tümosan",
-        "url": "tumosan.com.tr/tr",
+        "url": "tumosan.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı Albayrak Grubuna aittir.",
         "priority": "",
@@ -2705,7 +2705,7 @@
     },
     {
         "name": "Türk Hava Yolları",
-        "url": "turkishairlines.com/tr-tr",
+        "url": "turkishairlines.com",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2713,7 +2713,7 @@
     },
     {
         "name": "Türk Telekom",
-        "url": "turktelekom.com.tr/",
+        "url": "turktelekom.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2721,7 +2721,7 @@
     },
     {
         "name": "Türkiye Gazetesi",
-        "url": "turkiyegazetesi.com.tr/",
+        "url": "turkiyegazetesi.com.tr",
         "sector": "Gazete",
         "boycott_reason": "İhlas Holding",
         "priority": "DÜŞÜK",
@@ -2729,7 +2729,7 @@
     },
     {
         "name": "Türkiye Hastanesi",
-        "url": "turkiyehastanesi.com/tr/",
+        "url": "turkiyehastanesi.com",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı İhlas Holdinge aittir.",
         "priority": "",
@@ -2737,7 +2737,7 @@
     },
     {
         "name": "Türkiye İş Bankası Yayınları",
-        "url": "iskultur.com.tr/?srsltid=AfmBOortThtLebG9GrA_ssrHRdt2WjkFI3SspK1ixnh_lltewo876HqO",
+        "url": "iskultur.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2745,7 +2745,7 @@
     },
     {
         "name": "Türkiye Petrolleri",
-        "url": "tppd.com.tr/",
+        "url": "tppd.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2753,7 +2753,7 @@
     },
     {
         "name": "Türkiye Sigorta",
-        "url": "turkiyesigorta.com.tr/",
+        "url": "turkiyesigorta.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2761,7 +2761,7 @@
     },
     {
         "name": "TV4",
-        "url": "tv4.com.tr/canli-yayin",
+        "url": "tv4.com.tr",
         "sector": "Medya",
         "boycott_reason": "Star Medya Grubu (Ethem Sancak)",
         "priority": "DÜŞÜK",
@@ -2769,7 +2769,7 @@
     },
     {
         "name": "TV5",
-        "url": "tv5.com.tr/",
+        "url": "tv5.com.tr",
         "sector": "Medya",
         "boycott_reason": "Saadet Partisi Kanalı",
         "priority": "DÜŞÜK",
@@ -2777,7 +2777,7 @@
     },
     {
         "name": "TV8",
-        "url": "tv8.com.tr/canli-yayin",
+        "url": "tv8.com.tr",
         "sector": "Medya",
         "boycott_reason": "Doğuş Grubu %30'u Acun Medya'dan aldı",
         "priority": "DÜŞÜK",
@@ -2785,7 +2785,7 @@
     },
     {
         "name": "TVNET",
-        "url": "tvnet.com.tr/",
+        "url": "tvnet.com.tr",
         "sector": "Medya",
         "boycott_reason": "Albayrak Holding",
         "priority": "DÜŞÜK",
@@ -2793,7 +2793,7 @@
     },
     {
         "name": "Twist",
-        "url": "twist.com.tr/?srsltid=AfmBOoox04A9tpqnT9UpvwYUVDtPw3F-9Z369C5psh_bg-PWd39p57qh",
+        "url": "twist.com.tr",
         "sector": "",
         "boycott_reason": "Ayaydın ailesine aittir.",
         "priority": "",
@@ -2801,7 +2801,7 @@
     },
     {
         "name": "U.S. Polo Assn",
-        "url": "tr.uspoloassn.com/?srsltid=AfmBOophl1S_tuhGoEyZK3TLIwjboQGQ30ny-xXLIddJS41bv46jwS1e",
+        "url": "tr.uspoloassn.com",
         "sector": "",
         "boycott_reason": "Sahibi Şeref Safa bizzat Erdoğan tarafından TMSF kuruluna atandı. (*Aydınlı Grup) İlgili Haber",
         "priority": "",
@@ -2809,7 +2809,7 @@
     },
     {
         "name": "Under Armour",
-        "url": "underarmour.com.tr/",
+        "url": "underarmour.com.tr",
         "sector": "Giyim",
         "boycott_reason": "Doğuş Grubu resmi distribütör",
         "priority": "DÜŞÜK",
@@ -2817,7 +2817,7 @@
     },
     {
         "name": "Ülke TV",
-        "url": "ulketv.com/",
+        "url": "ulketv.com",
         "sector": "Medya",
         "boycott_reason": "Yeni Dünya Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2825,7 +2825,7 @@
     },
     {
         "name": "Ülker",
-        "url": "ulker.com.tr/tr",
+        "url": "ulker.com.tr",
         "sector": "Gıda",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "DÜŞÜK",
@@ -2833,7 +2833,7 @@
     },
     {
         "name": "Vakıfbank",
-        "url": "vakifbank.com.tr/tr",
+        "url": "vakifbank.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -2841,7 +2841,7 @@
     },
     {
         "name": "Vatan Gazetesi",
-        "url": "gazetevatan.com/",
+        "url": "gazetevatan.com",
         "sector": "Gazete",
         "boycott_reason": "Demirören Holding",
         "priority": "DÜŞÜK",
@@ -2849,7 +2849,7 @@
     },
     {
         "name": "Vav Radyo",
-        "url": "vavtv.com.tr/",
+        "url": "vavtv.com.tr",
         "sector": "Radyo",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2857,7 +2857,7 @@
     },
     {
         "name": "Vestel",
-        "url": "vestel.com.tr/",
+        "url": "vestel.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -2865,7 +2865,7 @@
     },
     {
         "name": "Violet Mobilya",
-        "url": "violetmobilya.com.tr/?srsltid=AfmBOorx3id7J1g2K5dTsI8wpQYivW3T6urhJAzTEVZEkB5t-sU5Ixkq",
+        "url": "violetmobilya.com.tr",
         "sector": "",
         "boycott_reason": "Espressolab gönderisine yapılan yorum.",
         "priority": "",
@@ -2873,7 +2873,7 @@
     },
     {
         "name": "Vogue Türkiye",
-        "url": "vogue.com.tr/",
+        "url": "vogue.com.tr",
         "sector": "Dergi",
         "boycott_reason": "Ocak 2020'de Turkuvaz Medya Grubu'na geçti.",
         "priority": "DÜŞÜK",
@@ -2881,7 +2881,7 @@
     },
     {
         "name": "Volkswagen",
-        "url": "vw.com.tr/",
+        "url": "vw.com.tr",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2889,7 +2889,7 @@
     },
     {
         "name": "Volkswagen Grubu",
-        "url": "tr.wikipedia.org/wiki/Volkswagen_AG",
+        "url": "tr.wikipedia.org",
         "sector": "Otomotiv",
         "boycott_reason": "Doğuş Otomotiv Türkiye distribütörüdür.",
         "priority": "DÜŞÜK",
@@ -2897,7 +2897,7 @@
     },
     {
         "name": "Voyage",
-        "url": "voyagehotel.com/",
+        "url": "voyagehotel.com",
         "sector": "",
         "boycott_reason": "Kültür ve Turizm Bakanına aittir.",
         "priority": "",
@@ -2905,7 +2905,7 @@
     },
     {
         "name": "Voyage Radyo",
-        "url": "radyovoyage.com/",
+        "url": "radyovoyage.com",
         "sector": "Radyo",
         "boycott_reason": "Doğuş Grubu",
         "priority": "DÜŞÜK",
@@ -2913,7 +2913,7 @@
     },
     {
         "name": "Watson",
-        "url": "watsons.com.tr/",
+        "url": "watsons.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -2921,7 +2921,7 @@
     },
     {
         "name": "Watsons",
-        "url": "watsons.com.tr/",
+        "url": "watsons.com.tr",
         "sector": "Kozmetik",
         "boycott_reason": "Aksan Holding",
         "priority": "DÜŞÜK",
@@ -2929,7 +2929,7 @@
     },
     {
         "name": "Yabancı Yayınları",
-        "url": "ithakiyayingrubu.com/yayinevi/yabanci",
+        "url": "ithakiyayingrubu.com",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2937,7 +2937,7 @@
     },
     {
         "name": "Yapı Kredi Yayınları",
-        "url": "yapikrediyayinlari.com.tr/",
+        "url": "yapikrediyayinlari.com.tr",
         "sector": "Yayınevi",
         "boycott_reason": "",
         "priority": "DÜŞÜK",
@@ -2961,7 +2961,7 @@
     },
     {
         "name": "Yeni Akit",
-        "url": "yeniakit.com.tr/",
+        "url": "yeniakit.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Propoganda",
         "priority": "DÜŞÜK",
@@ -2969,7 +2969,7 @@
     },
     {
         "name": "Yeni Asır Gazetesi",
-        "url": "yeniasir.com.tr/",
+        "url": "yeniasir.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2977,7 +2977,7 @@
     },
     {
         "name": "Yeni Asır TV",
-        "url": "yeniasir.com.tr/video",
+        "url": "yeniasir.com.tr",
         "sector": "Medya",
         "boycott_reason": "Turkuvaz Medya Grubu",
         "priority": "DÜŞÜK",
@@ -2985,7 +2985,7 @@
     },
     {
         "name": "Yeni Asya",
-        "url": "yeniasya.com.tr/",
+        "url": "yeniasya.com.tr",
         "sector": "Gazete",
         "boycott_reason": "Nurcuların Gazetesi",
         "priority": "DÜŞÜK",
@@ -2993,7 +2993,7 @@
     },
     {
         "name": "Yeni Birlik",
-        "url": "gazetebirlik.com/",
+        "url": "gazetebirlik.com",
         "sector": "Gazete",
         "boycott_reason": "Gül, Arınç, Davutoğlu",
         "priority": "DÜŞÜK",
@@ -3001,7 +3001,7 @@
     },
     {
         "name": "Yeni Söz",
-        "url": "gazeteyenisoz.com/",
+        "url": "gazeteyenisoz.com",
         "sector": "Gazete",
         "boycott_reason": "Ali Adakoğlu",
         "priority": "DÜŞÜK",
@@ -3009,7 +3009,7 @@
     },
     {
         "name": "Yeni Şafak",
-        "url": "yenisafak.com/",
+        "url": "yenisafak.com",
         "sector": "Gazete",
         "boycott_reason": "Albayrak Medya",
         "priority": "DÜŞÜK",
@@ -3017,7 +3017,7 @@
     },
     {
         "name": "Yimpaş",
-        "url": "tr.wikipedia.org/wiki/Yimpa%C5%9F_Holding",
+        "url": "tr.wikipedia.org",
         "sector": "Perakende",
         "boycott_reason": "",
         "priority": "YÜKSEK",
@@ -3025,7 +3025,7 @@
     },
     {
         "name": "Yörsan Süt Ürünleri",
-        "url": "yorsan.com.tr/",
+        "url": "yorsan.com.tr",
         "sector": "",
         "boycott_reason": "Sahibi AKP Merkez Karar ve Yönetim Kurulu üyesi Önder Matlı.",
         "priority": "",
@@ -3033,7 +3033,7 @@
     },
     {
         "name": "Z Raporu",
-        "url": "zraporu.com/",
+        "url": "zraporu.com",
         "sector": "Dergi",
         "boycott_reason": "Sahibi Albayrak medya",
         "priority": "DÜŞÜK",
@@ -3041,7 +3041,7 @@
     },
     {
         "name": "Ziraat Bankası",
-        "url": "ziraatbank.com.tr/tr",
+        "url": "ziraatbank.com.tr",
         "sector": "",
         "boycott_reason": "Varlık Fonuna bağlı şirketler arasında.",
         "priority": "",
@@ -3049,7 +3049,7 @@
     },
     {
         "name": "Zorlu",
-        "url": "zorlucenter.com.tr/",
+        "url": "zorlucenter.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
@@ -3057,7 +3057,7 @@
     },
     {
         "name": "Zorlu Center",
-        "url": "zorlucenter.com.tr/",
+        "url": "zorlucenter.com.tr",
         "sector": "",
         "boycott_reason": "Hükümet yanlısı.",
         "priority": "",
