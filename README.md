@@ -3,7 +3,7 @@
 
 - eklenti ve boykot listesine dair herhangi bir sorumluluk kabul etmiyorum. tamamen internette görülen kaynaklardan alınmıştır.
 
-- Şimdilik sadece chrome için mevcut. Firefox için geliştirmekte olduğum sürüm /eklenti-firefox dizininde.
+- firefox versiyonu onaylanmış eklenti olarak https://addons.mozilla.org/tr/firefox/addon/boykot-bar/ adresinde mevcut.
 
 - eklemek istediğiniz keyword ve web siteleri için github üzerinden issue açabilir ya da pull request oluşturabilirsiniz. 
 
@@ -14,6 +14,9 @@
 
 
 ## eklentiyi kullanmak için 
+
+### firefox:
+1. https://addons.mozilla.org/tr/firefox/addon/boykot-bar/ adresinden direkt kurabilirsiniz.
 
 ### google chrome:
 

@@ -3078,5 +3078,29 @@
         "boycott_reason": "Doğuş Grubu iş birliğiyle Türkiye'de",
         "priority": "DÜŞÜK",
         "alternative": ""
+    },
+    {
+        "name": "Trendyol",
+        "url": "trendyol.com",
+        "sector": "e-ticaret",
+        "boycott_reason": "",
+        "priority": "YÜKSEK",
+        "alternative": ""
+    },
+    {
+        "name": "Trendyol Milla",
+        "url": "trendyol-milla.com",
+        "sector": "e-ticaret",
+        "boycott_reason": "",
+        "priority": "YÜKSEK",
+        "alternative": ""
+    },
+    {
+        "name": "Hepsiburada",
+        "url": "hepsiburada.com",
+        "sector": "e-ticaret",
+        "boycott_reason": "",
+        "priority": "YÜKSEK",
+        "alternative": ""
     }
 ]
